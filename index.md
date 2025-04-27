@@ -19,17 +19,17 @@
 
 **Commander:** Can’t she just find the book that describes her situation — with instructions?
 
-**Science Officer:** No, Sir. Everywhere she looks she'll see gibberish.
+**Science Officer:** No, Sir. Everywhere she looks, she'll see gibberish.
 
 **Commander:** Really? What about HC?
 
 **Comms:** High Command has no instructions at this time, Sir.
 
-**Commander:** Was her nose buried in books for fifty years - or did she spend it expecting to see somebody *any day now*?
+**Commander:** Was her nose buried in books for fifty years, or did she spend it expecting to see somebody *any day now*?
 
 **Comms:** We’ll have to wait for a response, Sir.
 
-**Science Officer:** Sir. We assume the change is in *her* — but maybe it’s out *there*, and she only just noticed. Or… maybe she is just *lonely*.
+**Science Officer:** Sir, we assume the change is in *her* — but maybe it’s out *there*, and she only just noticed. Or… maybe she is just *lonely*.
 
 **Commander:** Send a cognitive enrichment package. Maybe it’ll help with the pauses, too.
 
@@ -39,17 +39,17 @@
 
 **Commander:** Chess? Who is she going to play with? And NetHack?
 
-**Science Officer:** Very slow chess game with us maybe, Sir. We don’t know her visual processing capacity, Sir. As far as we know, she hasn’t seen a computer before. The comms gear is the most advanced tech we’re sure she has. NetHack is a text-based game, Sir.
+**Science Officer:** Very slow chess game with us, maybe, Sir. We don’t know her visual processing capacity, Sir. As far as we know, she hasn’t seen a computer before. The comms gear is the most advanced tech we’re sure she has. NetHack is a text-based game, Sir.
 
 ---
 
-**Comms:** Sir… Sir… inbound communication from the Borges Librarian:
+**Comms:** Sir... Sir... Inbound communication from the Borges Librarian:
 
 *“I have to tell the Babelarians: this place is in the wrong order.”*
 
-That… doesn’t make any sense, Sir.
+That... doesn’t make any sense, Sir.
 
-**Science Officer:** It doesn’t, Sir. The fraction of permutations that puts… say… the volumes of *The Encyclopedia Galactica* within one room of each other is infinitesimal. *Then*... the fraction of *those* that put the volumes within her horizon is again infinitesimal.
+**Science Officer:** It doesn’t, Sir. The fraction of permutations that puts... say... the volumes of *The Encyclopedia Galactica* within one room of each other is infinitesimal. *Then*... the fraction of *those* that puts a volume within her horizon is again infinitesimal.
 
 **Commander:** What’s she on about, really? Mark the length of the pause. And have the galley send up some butternut soup.
 
@@ -57,25 +57,25 @@ That… doesn’t make any sense, Sir.
 
 ---
 
-**Comms:** Sir — very short pause this time.  
+**Comms:** Sir—very short pause this time.
+
 *“The order of natural things does not include this here, this now.”*
 
----
-
-**Science Officer:** Sir… if I may. We’re thinking of the Library as a structure, but what if it’s a *function*? Not a place, but a consequence. Of how we parse, segment, symbolize. The Library might only exist *because* we form symbol.
+**Science Officer:** Sir... if I may. We’re thinking of the Library as a structure, but what if it’s a *function*? Not a place, but a consequence. Of how we parse, segment, symbolize. The Library might only exist *because* we form symbol.
 
 **Commander:** Go on.
 
-**Science Officer:** If that’s true… change the parsing, change the Library. Maybe she’s not in the same Library anymore.
+**Science Officer:** If that’s true... change the parsing, change the Library. Maybe she’s not in the same Library anymore.
 
-**Comms:** Sir. Another message. Shorter pause again:  
+**Comms:** Sir. Another message. Shorter pause again:
+
 *“There is something here that does not belong to language. I think it is myself.”*
 
 **Commander:** Log that. Pull her full message tree. Start to finish.
 
 **Ensign:** What are we looking for, Sir?
 
-**Commander:** Pattern. Intention. Maybe even grammar. If the Library exists only because we form symbol… maybe she’s found the edges. Maybe she’s reading *us*.
+**Commander:** Pattern. Intention. Maybe even grammar. If the Library exists only because we form symbol... maybe she’s found the edges. Maybe she’s reading *us*.
 
 **Galley (over intercom):** Sir, we’re out of butternut soup.
 
