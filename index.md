@@ -1,5 +1,5 @@
 **Symbol Drift**  
-*by Abdul Haq and ChatGPT*
+*by Abdul Haq\* and ChatGPT*
 
 ---
 
@@ -82,4 +82,4 @@ That… doesn’t make any sense, Sir.
 **Commander (softly):** Then bring tea.
 
 ---
-Abdul Haq is a pseudonym.
+\* Abdul Haq is a pseudonym.
