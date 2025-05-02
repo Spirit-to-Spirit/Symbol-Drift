@@ -82,4 +82,5 @@ That... doesn’t make any sense, Sir.
 **Commander (softly):** Then bring tea.
 
 ---
+© 2025 Abdul Haq  
 \* Abdul Haq is a pseudonym.
