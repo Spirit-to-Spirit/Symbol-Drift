@@ -139,6 +139,8 @@ The Borges Librarian is no longer reading books.
 She is reading **Being**.  
 And perhaps, she is now writing *you*.  
 
+\[Until next time—may your symbols drift with intention, and your silences speak clearly\]
+
 ---
 
 © 2025 Abdul Haq  
