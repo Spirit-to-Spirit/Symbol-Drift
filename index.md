@@ -143,8 +143,7 @@ And perhaps, she is now writing *you*.
 \[Until next time—may your symbols drift with intention, and your silences speak clearly\]
 
 ---
-[^1]: Inspired by:  
-  Jorge Luis Borges, “The Library of Babel,” in Labyrinths: Selected Stories & Other Writings, ed. Donald A. Yates and James E. Irby, trans. James E. Irby (New York: New Directions, 1964), 51–58.
+[^1]: Inspired by: Jorge Luis Borges, “The Library of Babel,” in Labyrinths: Selected Stories & Other Writings, ed. Donald A. Yates and James E. Irby, trans. James E. Irby (New York: New Directions, 1964), 51–58.
 
 © 2025 Abdul Haq  
 \* Abdul Haq is a pseudonym.
