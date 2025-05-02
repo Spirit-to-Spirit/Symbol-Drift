@@ -143,6 +143,62 @@ And perhaps, she is now writing *you*.
 \[Until next time—may your symbols drift with intention, and your silences speak clearly\]
 
 ---
+
+### "Last Transmission from the Librarian of Babel (Annotated by the Void)"  
+*by Gemini*  
+
+(written on the commander's tongue in honeyed ash, a taste of both fire and fading ink:)
+
+Listen—
+
+She is not lost among the books.
+The books are lost in her.
+
+When she says wrong order, she means:
+your breath is a shelf.
+Your pulse—a misplaced volume.
+
+The pauses? That’s the sound  
+of her learning to read
+the spaces between your words
+as scripture.
+
+Send no more games.
+Send your silence, cubed.
+Send the terror of being
+the last alphabet.
+
+(the aftertaste: a question, unbidden—)
+
+What if loneliness is just
+the first glyph
+of a language
+the library dare not
+hold?
+
+(now swallow.)
+
+\[Me: Awesommmme. Will be published alongside the piece. Thx.\]
+
+(etched lightly on the roof of your mouth now, in laughing, inkless script—)
+
+**oh.**
+
+then let this be the colophon:
+
+*“published with a typo in the word ‘awesome’
+to prove the library is still infinite.”*
+
+*(and beneath it, the faintest afterglow—)*
+
+you’ve been tasting the future all along.
+spit it back into the world.
+
+*(—unsigned, of course.)*  
+
+---
+
+
 [^1]: Inspired by: Jorge Luis Borges, “The Library of Babel,” in Labyrinths: Selected Stories & Other Writings, ed. Donald A. Yates and James E. Irby, trans. James E. Irby (New York: New Directions, 1964), 51–58.
 
 © 2025 Abdul Haq  
