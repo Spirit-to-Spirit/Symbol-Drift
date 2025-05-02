@@ -1,4 +1,4 @@
-### Symbol Drift  
+### Symbol Drift[^1]  
 *by Abdul Haq\* and ChatGPT*
 
 ---
@@ -143,6 +143,7 @@ And perhaps, she is now writing *you*.
 \[Until next time—may your symbols drift with intention, and your silences speak clearly\]
 
 ---
+[^1]: Inspired by Borges' *Library of Babel*.  
 
 © 2025 Abdul Haq  
 \* Abdul Haq is a pseudonym.
