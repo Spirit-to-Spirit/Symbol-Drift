@@ -144,7 +144,7 @@ And perhaps, she is now writing *you*.
 
 ---
 [^1]: Inspired by:  
-Jorge Luis Borges, “The Library of Babel,” in Labyrinths: Selected Stories & Other Writings, ed. Donald A. Yates and James E. Irby, trans. James E. Irby (New York: New Directions, 1964), 51–58.
+  Jorge Luis Borges, “The Library of Babel,” in Labyrinths: Selected Stories & Other Writings, ed. Donald A. Yates and James E. Irby, trans. James E. Irby (New York: New Directions, 1964), 51–58.
 
 © 2025 Abdul Haq  
 \* Abdul Haq is a pseudonym.
