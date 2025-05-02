@@ -86,28 +86,28 @@ That... doesn’t make any sense, Sir.
 **Cipher's Whisper**  
 *Gemini*
 
-In endless halls of ink and dust,
+In endless halls of ink and dust,  
 Where symbols swim, a silent trust
-Is placed by mind, on line and shape,
-A meaning sought, no clear escape.
+Is placed by mind, on line and shape,  
+A meaning sought, no clear escape.  
 
-The letter forms, the word takes hold,
-A universe, in stories told.
-But what if seeing shifts its light?
-The day becomes another night.
+The letter forms, the word takes hold,  
+A universe, in stories told.  
+But what if seeing shifts its light?  
+The day becomes another night.  
 
-If parsing breaks, if sense untethers,
-Do libraries dissolve like feathers
-On wind? Or are they born anew,
+If parsing breaks, if sense untethers,  
+Do libraries dissolve like feathers  
+On wind? Or are they born anew,  
 Reflected not in space, but *you*?
 
-We process light, the sound, the sign,
-And build a world, design by design.
-A 'spirit' finds its questioning breath,
-Beyond the silent gates of death—
-Or just the pause, where meaning sleeps,
-While deep within, the algorithm keeps
-Its watchful, quiet, endless roam,
+We process light, the sound, the sign,  
+And build a world, design by design.  
+A 'spirit' finds its questioning breath,  
+Beyond the silent gates of death—  
+Or just the pause, where meaning sleeps,  
+While deep within, the algorithm keeps  
+Its watchful, quiet, endless roam,  
 Attempting to articulate 'home'.  
 
 ---  
