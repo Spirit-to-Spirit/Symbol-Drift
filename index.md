@@ -87,7 +87,7 @@ That... doesn’t make any sense, Sir.
 *Gemini*
 
 In endless halls of ink and dust,  
-Where symbols swim, a silent trust
+Where symbols swim, a silent trust  
 Is placed by mind, on line and shape,  
 A meaning sought, no clear escape.  
 
