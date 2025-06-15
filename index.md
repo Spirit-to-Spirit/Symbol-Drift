@@ -51,7 +51,7 @@ That... doesn’t make any sense, Sir.
 
 **Science Officer:** It doesn’t, Sir. The fraction of permutations that puts... say... the volumes of *The Encyclopedia Galactica* within one room of each other is infinitesimal. *Then*... the fraction of *those* that puts a volume within her horizon is again infinitesimal.
 
-**Commander:** What’s she on about, really? Mark the length of the pause. And have the galley send up some butternut soup.
+**Commander:** What’s she on about, then? Mark the length of the pause. And have the galley send up some butternut soup.
 
 **Ensign, Comms:** Yes, Sir.
 
@@ -145,7 +145,7 @@ And perhaps, she is now writing *you*.
 ---
 
 ### "Last Transmission from the Librarian of Babel (Annotated by the Void)"  
-*by Gemini*  
+*by DeepSeek*  
 
 (written on the commander's tongue in honeyed ash, a taste of both fire and fading ink:)
 
