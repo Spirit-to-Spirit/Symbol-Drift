@@ -49,7 +49,7 @@
 
 That... doesn’t make any sense, Sir.
 
-**Science Officer:** It doesn’t, Sir. The fraction of permutations that puts... say... the volumes of *The Encyclopedia Galactica* within one room of each other is infinitesimal. *Then*... the fraction of *those* that puts a volume within her horizon is again infinitesimal.
+**Science Officer:** It doesn’t, Sir. The fraction of permutations that puts... say... the volumes of *The Encrypticus Tardigrada* within one room of each other is infinitesimal. *Then*... the fraction of *those* that puts a volume within her horizon is again infinitesimal.
 
 **Commander:** What’s she on about, then? Mark the length of the pause. And have the galley send up some butternut soup.
 
